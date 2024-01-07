@@ -82,7 +82,7 @@ Check node install or not:
 
 # How works TypeScript
 
-<img src="../01-Chapter-Typescript/typescript-learning/Diagram images/how works.png" alt="image">
+<img src="./typescript-learning/Diagram images/how works.png" alt="image">
 
 </br>
 
@@ -241,7 +241,7 @@ Tuple data type এ আমরা variable define করে নিবো এব�
 **Enum Data Type Syntax**
 
 </br>
-<img src="../01-Chapter-Typescript/typescript-learning/Diagram images/enum systax.png" alt="image">
+<img src="./typescript-learning/Diagram images/enum systax.png" alt="image">
 
 উপরের কিভাবে আমরা নিজেরা কোনো variable এর value সেট করবো সেটা দেখানো হয় নি! **নিচে সেটা দেখানো হবে**
 
@@ -250,7 +250,7 @@ Tuple data type এ আমরা variable define করে নিবো এব�
 **Set The Value In Enum Variable**
 
 </br>
-<img src="../01-Chapter-Typescript/typescript-learning/Diagram images/set value enum variable.png" alt="image">
+<img src="./typescript-learning/Diagram images/set value enum variable.png" alt="image">
 
 এভাবে আমরা যেকোনো variable এ value সেট করতে পারি আর যদি কোনো value সেট না করি তাহলে Enum ডিফল্ট ভাবে একটি নাম্বার value সেট করে দেয়।
 
